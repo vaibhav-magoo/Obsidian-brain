@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/useState hook.md",
+                "file": "CODING/02_Concepts/REACT/updater function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "useState hook"
+              "title": "updater function"
+            }
+          },
+          {
+            "id": "cb025fdd652fff63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/REACT/updating arrays in state.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "updating arrays in state"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +241,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4768b7279d40fa9",
+  "active": "cb025fdd652fff63",
   "lastOpenFiles": [
+    "CODING/04_knowledge/React.md",
+    "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/update objects in state.md",
+    "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/onChange.md",
-    "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/CSS styling.md",
     "CODING/02_Concepts/REACT/starting a react project.md",
@@ -236,7 +263,6 @@
     "CODING/04_knowledge/class component.md",
     "CODING/04_knowledge/Virtual DOM.md",
     "CODING/04_knowledge/form elements.md",
-    "CODING/04_knowledge/React.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/02_Concepts/REACT",
     "CODING/01_Inbox/React events notes.md",
@@ -249,7 +275,6 @@
     "CODING/03_Projects",
     "React notes.md",
     "onClick and onChange.md",
-    "rendering lists.md",
     "templates",
     "CODING/02_Concepts",
     "CODING/02_Learning",
