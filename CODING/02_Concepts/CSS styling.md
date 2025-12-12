@@ -12,42 +12,46 @@ There are many ways to style React with CSS, this tutorial will take a closer lo
 - CSS stylesheets
 - CSS Modules
 
-## Inline Styling
-  you just write the css inside the line.
+
+# Inline Styling
+ -  you just write the CSS inside the line.
+  - Since the inline CSS is written in a JavaScript object, properties with hyphen separators, like `background-color`, must be written with camel case syntax:
 
  example--
-	
-```javascript function hello() { console.log("Hello World"); } ```
+```javascript
+<h1 style={{backgroundColor: "lightblue"}}></h1>
+```
+
+ can also make a javascript object and later add it to the line.
+
+example: 
+```jsx
+const Header = () => {
+  const myStyle = {
+    color: "white",
+    backgroundColor: "DodgerBlue",
+    padding: "10px",
+    fontFamily: "Sans-Serif"
+  };
+  return (
+    <>
+      <h1 style={myStyle}>Hello Style!</h1>
+      <p>Add a little style!</p>
+    </>
+  );
+}
+```
 
 
+# stylesheet
+	you can write it in a seperate css file
 
+- you will have to import the style sheet into the component
+	`import './MyStylesheet.css'`
 
-
-
----
-*Reference:* ```
-
-#### 2. The Code Pattern / Snippet
-**Best for:** Syntax you need to memorize or reuse (e.g., "useEffect fetch data").
-**The Science:** Uses **Chunking** (breaking complex code into small, usable blocks) and **Contextualization** (knowing *when* to use it, not just *how*).
-
-**Copy this into a file named `T - Snippet`:**
-```markdown
----
-type: snippet
-language: #javascript #react
-tags: #syntax
-created: 2025-12-12
----
-
-# Pattern: [Name of Pattern]
-
-## Use Case
-*When should I reach for this specific syntax?*
+# modules
 - 
 
-## The Syntax
-```jsx
-// Minimal working example here. 
-// Do not paste 50 lines of tutorial code.
-// Isolate the specific logic.
+
+
+---
