@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/update objects in state.md",
+                "file": "CODING/02_Concepts/REACT/useState hook.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "update objects in state"
+              "title": "useState hook"
             }
           }
         ]
@@ -216,9 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7428e38c00a5c8e3",
+  "active": "d4768b7279d40fa9",
   "lastOpenFiles": [
     "CODING/02_Concepts/REACT/updater function.md",
+    "CODING/02_Concepts/REACT/update objects in state.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/useState hook.md",
@@ -235,7 +236,6 @@
     "CODING/04_knowledge/class component.md",
     "CODING/04_knowledge/Virtual DOM.md",
     "CODING/04_knowledge/form elements.md",
-    "CODING/02_Concepts/REACT/update objects in state.md",
     "CODING/04_knowledge/React.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/02_Concepts/REACT",
