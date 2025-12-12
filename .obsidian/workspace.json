@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/Untitled.md",
+                "file": "CODING/02_Concepts/REACT/onChange.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "onChange"
             }
           }
         ],
@@ -279,14 +279,22 @@
   },
   "active": "6b469bf2967dc485",
   "lastOpenFiles": [
+    "CODING/04_knowledge/event-handler.md",
+    "CODING/02_Concepts/REACT/onChange.md",
+    "CODING/02_Concepts/REACT/onClick.md",
+    "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/useState hook.md",
+    "CODING/04_knowledge/Hooks.md",
+    "CODING/04_knowledge/JavaScript spread operator.md",
+    "CODING/04_knowledge/destructure.md",
+    "CODING/04_knowledge/class component.md",
+    "CODING/04_knowledge/Virtual DOM.md",
+    "CODING/04_knowledge/form elements.md",
     "CODING/04_knowledge/Untitled.md",
     "CODING/02_Concepts/REACT/CSS styling.md",
-    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/04_knowledge/React.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/02_Concepts/REACT",
-    "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/starting a react project.md",
     "CODING/01_Inbox/React events notes.md",
     "CODING/04_knowledge/Title of Concept.md",
