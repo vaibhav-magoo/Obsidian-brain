@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/Untitled.md",
+                "file": "CODING/02_Concepts/React Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "React Setup"
             }
           }
         ],
@@ -241,7 +241,7 @@
     "CODING/04_knowledge/2025-12-12.md",
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge/React.md",
-    "CODING/02_Concepts/Untitled.md",
+    "CODING/02_Concepts/React Setup.md",
     "CODING/04_knowledge",
     "ReadMe.md",
     "templates/Atomic Concept Note.md",

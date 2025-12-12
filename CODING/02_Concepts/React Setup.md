@@ -1,8 +1,8 @@
 ---
 type: concept
-tags: #status/seed 
+tags:
 created: 2025-12-12
-source: 
+source:
 ---
 Tags: [[React]] , [[Webdev]]
 # [[Title of Concept]]
