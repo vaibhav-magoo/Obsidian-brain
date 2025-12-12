@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/01_Inbox/React events notes.md",
+                "file": "CODING/02_Concepts/onClick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React events notes"
+              "title": "onClick"
             }
           }
         ],
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7428e38c00a5c8e3",
+  "active": "5c4d148aa7c0c299",
   "lastOpenFiles": [
-    "CODING/02_Concepts/onClick.md",
     "CODING/01_Inbox/React events notes.md",
+    "CODING/02_Concepts/onClick.md",
     "CODING/02_Concepts/CSS styling.md",
     "CODING/04_knowledge/Title of Concept.md",
     "CODING/04_knowledge/JavaScript.md",

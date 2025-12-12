@@ -6,14 +6,12 @@ tags:
 created: 2025-12-12
 source:
 ---
+events are same as js
+- onClick is camelcased
+- and you need to put an event handler function inside the curly braces
 
-## 1. The "ELI5" Definition
-*Explain this concept as if teaching it to a 5-year-old. No jargon allowed here.*
-> 
-
-## 2. The Technical Definition
-*The formal definition using correct terminology.*
-- 
+### Passing parameters:
+	
 
 ## 3. Analogy / Mental Model
 *X is like Y because... (e.g., "Props are like arguments passed to a function")*
