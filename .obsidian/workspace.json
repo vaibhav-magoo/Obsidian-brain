@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/starting a react project.md",
+                "file": "CODING/02_Concepts/onClick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "starting a react project"
+              "title": "onClick"
             }
           }
         ],
@@ -252,9 +252,9 @@
   "active": "db2908e60e612dbb",
   "lastOpenFiles": [
     "CODING/02_Concepts/react-event.md",
+    "CODING/02_Concepts/onClick.md",
     "CODING/04_knowledge/starting a react project.md",
     "Untitled",
-    "CODING/02_Concepts/onClick.md",
     "CODING/01_Inbox/React events notes.md",
     "CODING/02_Concepts/CSS styling.md",
     "CODING/04_knowledge/Title of Concept.md",
