@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/onChange.md",
+                "file": "CODING/02_Concepts/REACT/starting a react project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "onChange"
+              "title": "starting a react project"
             }
           }
         ],
@@ -293,12 +293,12 @@
   },
   "active": "446b8920cbcc5b5d",
   "lastOpenFiles": [
-    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/starting a react project.md",
+    "CODING/02_Concepts/REACT/onChange.md",
+    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/HTML/Select element.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/JAVASCRIPT",
     "CODING/02_Concepts/HTML",
     "CODING/04_knowledge/event-handler.md",
