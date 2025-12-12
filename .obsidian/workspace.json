@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/CSS styling.md",
+                "file": "CODING/02_Concepts/REACT/CSS styling.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/onClick.md",
+                "file": "CODING/02_Concepts/REACT/onClick.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/react-event.md",
+                "file": "CODING/02_Concepts/REACT/react-event.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/onClick.md",
+                "file": "CODING/02_Concepts/REACT/onClick.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/useState hook.md",
+                "file": "CODING/02_Concepts/REACT/useState hook.md",
                 "mode": "source",
                 "source": false
               },
@@ -265,18 +265,18 @@
   },
   "active": "00990f9d6ef9d1e4",
   "lastOpenFiles": [
-    "CODING/02_Concepts/onClick.md",
-    "CODING/04_knowledge/useState hook.md",
-    "CODING/02_Concepts/react-event.md",
-    "CODING/04_knowledge/starting a react project.md",
-    "Untitled",
-    "CODING/01_Inbox/React events notes.md",
-    "CODING/02_Concepts/CSS styling.md",
-    "CODING/04_knowledge/Title of Concept.md",
+    "CODING/02_Concepts/REACT/CSS styling.md",
+    "CODING/02_Concepts/REACT/onClick.md",
+    "CODING/04_knowledge/React.md",
     "CODING/04_knowledge/JavaScript.md",
+    "CODING/02_Concepts/REACT",
+    "CODING/02_Concepts/REACT/useState hook.md",
+    "CODING/02_Concepts/REACT/react-event.md",
+    "CODING/02_Concepts/REACT/starting a react project.md",
+    "CODING/01_Inbox/React events notes.md",
+    "CODING/04_knowledge/Title of Concept.md",
     "CODING/04_knowledge/2025-12-12.md",
     "CODING/04_knowledge/Untitled.base",
-    "CODING/04_knowledge/React.md",
     "CODING/04_knowledge",
     "ReadMe.md",
     "templates/Atomic Concept Note.md",
@@ -291,6 +291,6 @@
     "CODING/02_Learning",
     "CODING/01_Inbox",
     "CODING",
-    "REACT"
+    "CODING/02_Concepts/REACT"
   ]
 }

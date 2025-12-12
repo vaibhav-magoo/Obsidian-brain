@@ -11,5 +11,15 @@ tags - [[React]] [[Hooks]]
 - you can [[destructure]] it and only improt useState
 - the useState function will return an array with two values, we [[destructure]] it and store it as a variable and setvariable
 - we use setvariable function to update the values of our variable
+- we can pass an initial state to useState()
+-  
 
 ---
+
+State generally refers to data or properties that need to be tracking in an application
+## Importing
+
+```jsx
+import { useState } from "react";
+```
+
