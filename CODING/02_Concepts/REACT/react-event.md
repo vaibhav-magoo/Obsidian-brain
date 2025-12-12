@@ -18,14 +18,14 @@ tags - [[react]] [[onClick]]
  These are general properties found on almost every event typez
 
 
-|**Property**|**Type**|**Description**|
-|---|---|---|
-|**`e.target`**|DOM Element|The element that was **actually clicked** (could be a generic `<span>` inside your button).|
-|**`e.currentTarget`**|DOM Element|The element the **event handler is attached to** (your `<button>`).|
-|**`e.type`**|String|The name of the event (e.g., `"click"`, `"mousedown"`).|
-|**`e.timeStamp`**|Number|The time (in milliseconds) at which the event was created.|
-|**`e.isTrusted`**|Boolean|`true` if invoked by a user action; `false` if invoked by script/code.|
-|**`e.nativeEvent`**|DOM Event|The original underlying browser event (if you need to access raw browser-specific data).|
+| **Property**          | **Type**    | **Description**                                                                             |
+| --------------------- | ----------- | ------------------------------------------------------------------------------------------- |
+| **`e.target`**        | DOM Element | The element that was **actually clicked** (could be a generic `<span>` inside your button). |
+| **`e.currentTarget`** | DOM Element | The element the **event handler is attached to** (your `<button>`).                         |
+| **`e.type`**          | String      | The name of the event (e.g., `"click"`, `"mousedown"`).                                     |
+| **`e.timeStamp`**     | Number      | The time (in milliseconds) at which the event was created.                                  |
+| **`e.isTrusted`**     | Boolean     | `true` if invoked by a user action; `false` if invoked by script/code.                      |
+| **`e.nativeEvent`**   | DOM Event   | The original underlying browser event (if you need to access raw browser-specific data).    |
 
 ---
 
