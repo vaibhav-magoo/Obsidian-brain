@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/React Setup.md",
+                "file": "CODING/02_Concepts/CSS styling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Setup"
+              "title": "CSS styling"
             }
           }
         ],
@@ -237,11 +237,12 @@
   },
   "active": "09afa5a917166c85",
   "lastOpenFiles": [
+    "CODING/04_knowledge/Title of Concept.md",
+    "CODING/02_Concepts/CSS styling.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/04_knowledge/2025-12-12.md",
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge/React.md",
-    "CODING/02_Concepts/React Setup.md",
     "CODING/04_knowledge",
     "ReadMe.md",
     "templates/Atomic Concept Note.md",

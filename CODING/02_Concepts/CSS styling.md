@@ -5,24 +5,24 @@ created: 2025-12-12
 source:
 ---
 Tags: [[React]] , [[Webdev]]
-# [[Title of Concept]]
 
-## 1. The "ELI5" Definition
-*Explain this concept as if teaching it to a 5-year-old. No jargon allowed here.*
-> 
+There are many ways to style React with CSS, this tutorial will take a closer look at three common ways:
 
-## 2. The Technical Definition
-*The formal definition using correct terminology.*
-- 
+- Inline styling
+- CSS stylesheets
+- CSS Modules
 
-## 3. Analogy / Mental Model
-*X is like Y because... (e.g., "Props are like arguments passed to a function")*
-- 
+## Inline Styling
+  you just write the css inside the line.
 
-## 4. Connections
-* **Parent Topic:** [[]]
-* **Similar To:** [[]]
-* **Opposite Of:** [[]]
+ example--
+	
+```javascript function hello() { console.log("Hello World"); } ```
+
+
+
+
+
 
 ---
 *Reference:* ```
