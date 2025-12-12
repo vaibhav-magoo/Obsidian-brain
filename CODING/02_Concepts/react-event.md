@@ -1,12 +1,17 @@
 
 tags - [[react]] [[onClick]] 
 
-how to pass arguments 
+## how to pass arguments 
+
 ```jsx
 // ❌ WRONG: This runs immediately when the page loads!
 <button onClick={deleteUser(user.id)}>Delete</button>
 ```
- 
+
+```
+// ✅ RIGHT: React waits for the click, then runs the arrow function
+<button onClick={(e) => deleteUser(user.id, e)}>Delete</button>
+```
 
 ### 1. The Essentials (Core Identity)
 
