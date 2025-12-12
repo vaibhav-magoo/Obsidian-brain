@@ -7,12 +7,17 @@ created: 2025-12-12
 source:
 ---
 events are same as js
-- onClick is camelcased
+- on Click is camel cased
 - and you need to put an event handler function inside the curly braces
 
 ### Passing parameters:
+	use arrow function and place the parameter inside paranthesis
+	onClick={() => function("prop value")}
 	
 
+## event object
+It is an object containing **all the details about the click** that just happened. In React, this is technically called a **SyntheticEvent**. It is a wrapper around the browser's native event to ensure it works identically across Chrome, Firefox, Safari, etc.
+check out ====> [[react-event]]
 ## 3. Analogy / Mental Model
 *X is like Y because... (e.g., "Props are like arguments passed to a function")*
 - 
