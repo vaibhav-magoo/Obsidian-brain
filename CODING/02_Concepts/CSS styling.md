@@ -50,8 +50,22 @@ const Header = () => {
 	`import './MyStylesheet.css'`
 
 # modules
-- 
+- Create the CSS module with the `.module.css` extension, example: `my-style.module.css`.
+-  import the stylesheet:
+	`import styles from './my-style.module.css';`
 
 
+# Difference between stylesheet and module
+
+| **Feature**          | **Standard CSS Stylesheets**                                                                                        | **CSS Modules**                                                                                                          |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Scope**            | **Global**. Styles defined in one file can affect elements in completely different components if class names match. | **Local**. Styles are scoped to the specific component where they are imported.                                          |
+| **File Extension**   | `.css` (e.g., `Button.css`)                                                                                         | `.module.css` (e.g., `Button.module.css`)                                                                                |
+| **Import Syntax**    | `import './Button.css'`                                                                                             | `import styles from './Button.module.css'`                                                                               |
+| **JSX Usage**        | String literal: `className="btn"`                                                                                   | Object property: `className={styles.btn}`                                                                                |
+| **Class Naming**     | You see exactly what you type (e.g., `class="btn"`).                                                                | **Hashed/Obfuscated**. React generates unique names like `Button_btn__2f9a` to prevent conflicts.                        |
+| **Conflict Risk**    | **High**. If two components use `.container`, they will clash.                                                      | **Zero**. Since class names are unique, you can reuse common names (like `.container` or `.title`) in every file safely. |
+| **Hyphenated Names** | Standard usage: `.side-bar` is fine.                                                                                | **Tricky**. You cannot use dot notation for hyphens. You must use bracket notation: `styles['side-bar']`.                |
+| **Best Use Case**    | Global styles, resets, font setups, and legacy projects.                                                            | Component-specific styling (Buttons, Headers, Cards) in modern React apps.                                               |
 
 ---
