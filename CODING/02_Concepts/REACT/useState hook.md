@@ -16,10 +16,43 @@ tags - [[React]] [[Hooks]]
 
 ---
 
-State generally refers to data or properties that need to be tracking in an application
+> [!NOTE]
+> State generally refers to data or properties that need to be tracking in an application
+
 ## Importing
 
 ```jsx
 import { useState } from "react";
 ```
 
+## sample initialising 
+
+```jsx
+import { useState } from "react";
+
+function FavoriteColor() {
+  const [color, setColor] = useState("red");
+}
+```
+
+## including an object
+
+```jsx
+const [car, setCar] = useState({
+    brand: "Ford",
+    model: "Mustang",
+    year: "1964",
+    color: "red"
+  });
+```
+can be accessed by ```car.color```
+If we only called `setCar({color: "blue"})`, this would remove the brand, model, and year from our state
+[[JavaScript spread operator]]
+
+```jsx
+const updateColor = () => {
+  setCar(previousState => {
+    return { ...previousState, color: "blue" }
+  });
+}
+```
