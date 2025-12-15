@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "Agile Manifesto"
             }
-          },
-          {
-            "id": "ec680ccaca74cecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/General/Top-K accuracy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Top-K accuracy"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -291,8 +267,8 @@
   },
   "active": "7428e38c00a5c8e3",
   "lastOpenFiles": [
-    "CODING/02_Concepts/General/Agile Manifesto.md",
     "CODING/02_Concepts/General/Top-K accuracy.md",
+    "CODING/02_Concepts/General/Agile Manifesto.md",
     "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/General",
     "CODING/02_Concepts/REACT/react-event.md",
