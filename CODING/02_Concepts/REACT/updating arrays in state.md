@@ -9,4 +9,7 @@ related - [[unordered list]]
 
 ---
 ## to remove an element:
- - 
+ - inside the list element add an onclick event handler with a callback to a handler function
+ - the handler will take the index as a parameter, and using array filters display the part without 
+   the deleted part
+ 

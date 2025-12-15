@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "updating arrays in state"
             }
+          },
+          {
+            "id": "e6b74872e8c0b0f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arrays"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -265,16 +289,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e743db91fb71ac81",
+  "active": "7428e38c00a5c8e3",
   "lastOpenFiles": [
+    "CODING/02_Concepts/REACT/updating arrays in state.md",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+    "CODING/02_Concepts/REACT/updater function.md",
+    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/HTML/Select element.md",
-    "CODING/02_Concepts/REACT/updating arrays in state.md",
-    "CODING/02_Concepts/REACT/updater function.md",
     "CODING/04_knowledge/React.md",
     "CODING/02_Concepts/General/Top-K accuracy.md",
     "CODING/02_Concepts/General/Agile Manifesto.md",
-    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/General",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/REACT/onChange.md",
@@ -298,7 +323,6 @@
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge",
     "ReadMe.md",
-    "templates/Atomic Concept Note.md",
     "CODING/03_Projects",
     "templates",
     "CODING/02_Concepts",
