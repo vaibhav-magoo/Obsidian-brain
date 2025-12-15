@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/updating arrays in state.md",
+                "file": "CODING/02_Concepts/REACT/onClick.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "updating arrays in state"
+              "title": "onClick"
             }
           }
         ],
@@ -243,13 +243,13 @@
   },
   "active": "cb025fdd652fff63",
   "lastOpenFiles": [
-    "CODING/04_knowledge/React.md",
+    "CODING/02_Concepts/REACT/react-event.md",
+    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
+    "CODING/04_knowledge/React.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/update objects in state.md",
     "CODING/02_Concepts/REACT/useState hook.md",
-    "CODING/02_Concepts/REACT/react-event.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/CSS styling.md",
     "CODING/02_Concepts/REACT/starting a react project.md",
