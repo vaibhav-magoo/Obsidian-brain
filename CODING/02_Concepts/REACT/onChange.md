@@ -1,4 +1,4 @@
-tags- [[react]] [[event-handler]]
+tags- [[React]] [[event-handler]]
 
 ---
 ## Rough Notes:

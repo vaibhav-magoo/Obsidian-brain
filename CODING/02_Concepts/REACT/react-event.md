@@ -1,5 +1,5 @@
 
-tags - [[react]] [[onClick]] 
+tags - [[React]] [[onClick]] 
 
 ## how to pass arguments 
 

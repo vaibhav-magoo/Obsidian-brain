@@ -1,4 +1,4 @@
-
+[[React]]
 Here is the modern, standard way to start a React project using **Vite** (faster and better than the old `create-react-app`).
 
 ### 1. Prerequisites

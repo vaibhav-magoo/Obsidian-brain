@@ -6,6 +6,8 @@ tags:
 created: 2025-12-12
 source:
 ---
+[[React]]
+
 events are same as js
 - on Click is camel cased
 - and you need to put an event handler function inside the curly braces

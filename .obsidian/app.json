@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "CODING/04_knowledge",
   "attachmentFolderPath": "./attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

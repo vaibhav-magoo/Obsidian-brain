@@ -1,4 +1,4 @@
-tags - [[react]] [[state]] 
+tags - [[React]] [[state]] 
 related - [[unordered list]]
 
 - create an array in use state
