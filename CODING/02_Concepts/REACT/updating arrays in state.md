@@ -13,3 +13,4 @@ related - [[unordered list]]
  - the handler will take the index as a parameter, and using array filters display the part without 
    the deleted part
  
+---
