@@ -14,3 +14,6 @@ related - [[unordered list]]
    the deleted part
  
 ---
+
+## to edit array of objects
+ - it will be similar to the previous one , just handle each variable seperately and then add them all to an object
