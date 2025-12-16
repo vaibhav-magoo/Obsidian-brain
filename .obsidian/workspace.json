@@ -222,9 +222,33 @@
               "icon": "lucide-file",
               "title": "React"
             }
+          },
+          {
+            "id": "37beb54a12cb2244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/CSS/TRANSITION.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "TRANSITION"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -281,8 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "39dc1acd60c2aca2",
@@ -410,10 +433,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc39bf740a24a57e",
+  "active": "7428e38c00a5c8e3",
   "lastOpenFiles": [
-    "CODING/04_knowledge/useRef.md",
+    "CODING/02_Concepts/REACT/React.md",
+    "CODING/02_Concepts/CSS/TRANSITION.md",
+    "CODING/02_Concepts/CSS",
     "CODING/04_knowledge/e commerce.md",
+    "CODING/04_knowledge/useRef.md",
     "Untitled 1",
     "Untitled",
     "CODING/02_Concepts/REACT/props.md",
@@ -421,7 +447,6 @@
     "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/REACT/Hooks.md",
     "CODING/02_Concepts/REACT/useEffect.md",
-    "CODING/02_Concepts/REACT/React.md",
     "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/react-event.md",
@@ -442,11 +467,9 @@
     "CODING/02_Concepts/JAVASCRIPT",
     "CODING/02_Concepts/HTML",
     "CODING/04_knowledge/event-handler.md",
-    "CODING/04_knowledge/JavaScript spread operator.md",
     "CODING/02_Concepts/REACT",
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge",
-    "CODING/03_Projects",
-    "templates"
+    "CODING/03_Projects"
   ]
 }
