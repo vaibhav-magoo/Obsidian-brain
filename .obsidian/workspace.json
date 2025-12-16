@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+                "file": "CODING/02_Concepts/REACT/onChange.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "onChange"
             }
           }
         ],
@@ -339,21 +339,21 @@
   },
   "active": "640be698a88c4f18",
   "lastOpenFiles": [
+    "CODING/02_Concepts/REACT/onClick.md",
+    "CODING/02_Concepts/REACT/React.md",
+    "CODING/02_Concepts/REACT/react-event.md",
+    "CODING/02_Concepts/REACT/onChange.md",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/04_knowledge/tracker project.md",
     "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/04_knowledge/JavaScript.md",
-    "CODING/02_Concepts/REACT/React.md",
-    "CODING/02_Concepts/REACT/react-event.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/04_knowledge/coding.md",
     "CODING/02_Concepts/REACT/starting a react project.md",
     "CODING/02_Concepts/REACT/CSS styling.md",
-    "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/04_knowledge/Untitled.md",
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/HTML/Select element.md",
     "CODING/02_Concepts/General/Top-K accuracy.md",
     "CODING/02_Concepts/General/Agile Manifesto.md",
