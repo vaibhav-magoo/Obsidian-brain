@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/useEffect.md",
+                "file": "CODING/04_knowledge/useRef.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "useEffect"
+              "title": "useRef"
+            }
+          },
+          {
+            "id": "2b6fbcca6adca5f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/REACT/React.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React"
             }
           }
         ],
@@ -363,14 +387,15 @@
   },
   "active": "9f1169ef1e2e8b03",
   "lastOpenFiles": [
+    "CODING/02_Concepts/REACT/props.md",
+    "CODING/02_Concepts/REACT/Lifting State Up.md",
+    "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/REACT/Hooks.md",
     "CODING/02_Concepts/REACT/useEffect.md",
-    "CODING/02_Concepts/REACT/useState hook.md",
-    "CODING/02_Concepts/REACT/Lifting State Up.md",
-    "CODING/02_Concepts/REACT/props.md",
+    "CODING/02_Concepts/REACT/React.md",
+    "CODING/04_knowledge/useRef.md",
     "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/onClick.md",
-    "CODING/02_Concepts/REACT/React.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/04_knowledge/tracker project.md",
@@ -391,7 +416,6 @@
     "CODING/04_knowledge/event-handler.md",
     "CODING/04_knowledge/JavaScript spread operator.md",
     "CODING/04_knowledge/destructure.md",
-    "CODING/04_knowledge/class component.md",
     "CODING/02_Concepts/REACT",
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge",

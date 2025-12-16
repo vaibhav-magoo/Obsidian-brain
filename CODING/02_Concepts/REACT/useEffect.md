@@ -1,4 +1,4 @@
-tags - [[React]] 
+tags - [[React]] [[Hooks]]
 
 ---
  -  tells react to do some code when certain condition occurs
@@ -6,4 +6,4 @@ tags - [[React]]
  -  allows you to perform side effects in your components.
  - `useEffect` accepts two arguments. The second argument is optional.
    `useEffect(<function>, <dependency>)`
- - 
+ - if second argument is empty array it will only run once
