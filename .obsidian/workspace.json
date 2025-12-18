@@ -83,10 +83,24 @@
             "id": "e6b74872e8c0b0f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/REACT/useContext.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "useContext"
             }
           }
         ],
@@ -275,12 +289,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6b74872e8c0b0f0",
+  "active": "7428e38c00a5c8e3",
   "lastOpenFiles": [
+    "CODING/02_Concepts/REACT/useState hook.md",
+    "CODING/02_Concepts/REACT/useEffect.md",
+    "CODING/02_Concepts/REACT/starting a react project.md",
+    "CODING/02_Concepts/REACT/react-event.md",
+    "CODING/02_Concepts/REACT/props.md",
+    "CODING/02_Concepts/REACT/onClick.md",
+    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/React.md",
     "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
-    "CODING/02_Concepts/REACT/useEffect.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/04_knowledge/useRef.md",
     "CODING/04_knowledge/e commerce.md",
     "CODING/04_knowledge/form elements.md",
@@ -290,16 +309,11 @@
     "CODING/02_Concepts/CSS",
     "Untitled 1",
     "Untitled",
-    "CODING/02_Concepts/REACT/props.md",
     "CODING/02_Concepts/REACT/Lifting State Up.md",
-    "CODING/02_Concepts/REACT/useState hook.md",
-    "CODING/02_Concepts/REACT/onClick.md",
-    "CODING/02_Concepts/REACT/react-event.md",
     "CODING/04_knowledge/tracker project.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/04_knowledge/coding.md",
-    "CODING/02_Concepts/REACT/starting a react project.md",
     "CODING/02_Concepts/REACT/CSS styling.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/04_knowledge/Untitled.md",
