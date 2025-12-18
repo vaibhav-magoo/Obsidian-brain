@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/e commerce.md",
+                "file": "CODING/02_Concepts/REACT/useEffect.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -244,7 +244,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "e commerce"
+              "title": "useEffect"
             }
           }
         ],
@@ -435,10 +435,10 @@
   },
   "active": "37beb54a12cb2244",
   "lastOpenFiles": [
+    "CODING/04_knowledge/e commerce.md",
     "CODING/02_Concepts/CSS/TRANSITION.md",
     "CODING/02_Concepts/REACT/React.md",
     "CODING/02_Concepts/CSS",
-    "CODING/04_knowledge/e commerce.md",
     "CODING/04_knowledge/useRef.md",
     "Untitled 1",
     "Untitled",
