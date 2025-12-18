@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/useEffect.md",
+                "file": "CODING/02_Concepts/REACT/useContext.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "useEffect"
+              "title": "useContext"
             }
           }
         ],
@@ -315,9 +315,9 @@
   },
   "active": "45493d334df5d4ee",
   "lastOpenFiles": [
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
-    "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
+    "CODING/02_Concepts/REACT/useEffect.md",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/Hooks.md",
