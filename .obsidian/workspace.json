@@ -83,172 +83,14 @@
             "id": "e6b74872e8c0b0f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
-            }
-          },
-          {
-            "id": "6e41133d16463473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/useEffect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "useEffect"
-            }
-          },
-          {
-            "id": "640be698a88c4f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/onChange.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "onChange"
-            }
-          },
-          {
-            "id": "9f1169ef1e2e8b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/04_knowledge/useRef.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "useRef"
-            }
-          },
-          {
-            "id": "dc39bf740a24a57e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/04_knowledge/e commerce.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "e commerce"
-            }
-          },
-          {
-            "id": "2b6fbcca6adca5f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/React.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "React"
-            }
-          },
-          {
-            "id": "37beb54a12cb2244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/useEffect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "useEffect"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -433,24 +275,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37beb54a12cb2244",
+  "active": "e6b74872e8c0b0f0",
   "lastOpenFiles": [
-    "CODING/04_knowledge/e commerce.md",
-    "CODING/02_Concepts/CSS/TRANSITION.md",
     "CODING/02_Concepts/REACT/React.md",
-    "CODING/02_Concepts/CSS",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+    "CODING/02_Concepts/REACT/useEffect.md",
+    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/04_knowledge/useRef.md",
+    "CODING/04_knowledge/e commerce.md",
+    "CODING/04_knowledge/form elements.md",
+    "CODING/02_Concepts/REACT/Hooks.md",
+    "CODING/02_Concepts/REACT/useContext.md",
+    "CODING/02_Concepts/CSS/TRANSITION.md",
+    "CODING/02_Concepts/CSS",
     "Untitled 1",
     "Untitled",
     "CODING/02_Concepts/REACT/props.md",
     "CODING/02_Concepts/REACT/Lifting State Up.md",
     "CODING/02_Concepts/REACT/useState hook.md",
-    "CODING/02_Concepts/REACT/Hooks.md",
-    "CODING/02_Concepts/REACT/useEffect.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/onClick.md",
     "CODING/02_Concepts/REACT/react-event.md",
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/04_knowledge/tracker project.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/04_knowledge/JavaScript.md",
@@ -463,10 +307,8 @@
     "CODING/02_Concepts/General/Top-K accuracy.md",
     "CODING/02_Concepts/General/Agile Manifesto.md",
     "CODING/02_Concepts/General",
-    "CODING/02_Concepts/REACT/update objects in state.md",
     "CODING/02_Concepts/JAVASCRIPT",
     "CODING/02_Concepts/HTML",
-    "CODING/04_knowledge/event-handler.md",
     "CODING/02_Concepts/REACT",
     "CODING/04_knowledge/Untitled.base",
     "CODING/04_knowledge",
