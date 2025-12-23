@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+                "file": "CODING/02_Concepts/python/dictionary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23-12-2025"
+              "title": "dictionary"
             }
           },
           {
@@ -291,8 +291,8 @@
   },
   "active": "e743db91fb71ac81",
   "lastOpenFiles": [
-    "CODING/02_Concepts/python/dictionary.md",
     "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+    "CODING/02_Concepts/python/dictionary.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/python",
