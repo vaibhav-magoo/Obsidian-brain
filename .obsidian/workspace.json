@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/Untitled 1.md",
+                "file": "CODING/02_Concepts/SQL/rough/23-12-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "23-12-2025"
             }
           }
         ],
@@ -387,8 +387,14 @@
   },
   "active": "bd58b574d0f5a548",
   "lastOpenFiles": [
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+    "CODING/02_Concepts/SQL/rough/attachments/Pasted image 20251223105021.png",
+    "CODING/02_Concepts/SQL/rough/attachments",
     "CODING/04_knowledge/Untitled 1.md",
+    "ReadMe.md",
+    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+    "CODING/02_Concepts/SQL/rough",
+    "CODING/02_Concepts/SQL",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/04_knowledge/React backend.md",
     "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
@@ -410,18 +416,12 @@
     "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/onChange.md",
-    "CODING/02_Concepts/REACT/Hooks.md",
-    "CODING/02_Concepts/REACT/props.md",
-    "CODING/02_Concepts/REACT/useState hook.md",
     "CODING/02_Concepts/CSS",
     "Untitled 1",
     "Untitled",
     "CODING/02_Concepts/General",
     "CODING/02_Concepts/JAVASCRIPT",
     "CODING/02_Concepts/HTML",
-    "CODING/02_Concepts/REACT",
-    "CODING/04_knowledge/Untitled.base",
-    "CODING/04_knowledge",
-    "CODING/03_Projects"
+    "CODING/02_Concepts/REACT"
   ]
 }
