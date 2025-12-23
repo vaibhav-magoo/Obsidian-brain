@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/REACT/updating arrays in state.md",
+                "file": "CODING/02_Concepts/SQL/rough/23-12-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,103 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "updating arrays in state"
-            }
-          },
-          {
-            "id": "e6b74872e8c0b0f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/updater function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "updater function"
-            }
-          },
-          {
-            "id": "45493d334df5d4ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
-            }
-          },
-          {
-            "id": "031d301b539e02b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/REACT/useContext.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "useContext"
-            }
-          },
-          {
-            "id": "bec34390ac0ff25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Arrays"
+              "title": "23-12-2025"
             }
           },
           {
@@ -200,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -385,11 +289,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd58b574d0f5a548",
+  "active": "e743db91fb71ac81",
   "lastOpenFiles": [
-    "CODING/02_Concepts/python",
-    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
     "CODING/02_Concepts/python/dictionary.md",
+    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+    "CODING/02_Concepts/REACT/updating arrays in state.md",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+    "CODING/02_Concepts/python",
     "attachments/Pasted image 20251223105155.png",
     "attachments",
     "CODING/02_Concepts/SQL/rough/attachments/Pasted image 20251223105021.png",
@@ -398,7 +304,6 @@
     "ReadMe.md",
     "CODING/02_Concepts/SQL/rough",
     "CODING/02_Concepts/SQL",
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/04_knowledge/React backend.md",
     "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
@@ -416,7 +321,6 @@
     "CODING/04_knowledge/coding.md",
     "CODING/04_knowledge/class component.md",
     "CODING/02_Concepts/REACT/arrays in react.md",
-    "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/CSS",
