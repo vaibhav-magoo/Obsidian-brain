@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/React backend.md",
+                "file": "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +172,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React backend"
+              "title": "Arrays"
+            }
+          },
+          {
+            "id": "bd58b574d0f5a548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/04_knowledge/Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -361,10 +385,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bec34390ac0ff25c",
+  "active": "bd58b574d0f5a548",
   "lastOpenFiles": [
-    "CODING/04_knowledge/fetch.md",
+    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
+    "CODING/04_knowledge/Untitled 1.md",
     "CODING/04_knowledge/React backend.md",
+    "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/04_knowledge/destructure.md",
@@ -381,14 +407,12 @@
     "CODING/04_knowledge/class component.md",
     "CODING/02_Concepts/REACT/arrays in react.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updater function.md",
     "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/REACT/Hooks.md",
     "CODING/02_Concepts/REACT/props.md",
     "CODING/02_Concepts/REACT/useState hook.md",
-    "CODING/02_Concepts/REACT/starting a react project.md",
     "CODING/02_Concepts/CSS",
     "Untitled 1",
     "Untitled",

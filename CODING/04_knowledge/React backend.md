@@ -8,7 +8,9 @@ To get data, you need to follow these three steps:
     
 3. **Render:** Show the data in your HTML.
 
+
 ****
+example code:
 ```jsx
 import { useState, useEffect } from 'react';
 
@@ -36,12 +38,3 @@ function MyComponent() {
   );
 }
 ```
-## fetch:
-```jsx
-useEffect(() => { // This is the 'waiter' requesting data from the kitchen (backend)
- fetch('https://api.yourbackend.com/users') 
-	 .then(response => response.json()) 
-	 .then(data => setUsers(data)); 
-}, []);
-```
-
