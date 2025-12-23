@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+                "file": "CODING/02_Concepts/python/dictionary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "23-12-2025"
+              "title": "dictionary"
             }
           }
         ],
@@ -387,10 +387,12 @@
   },
   "active": "bd58b574d0f5a548",
   "lastOpenFiles": [
+    "CODING/02_Concepts/python",
+    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+    "CODING/02_Concepts/python/dictionary.md",
     "attachments/Pasted image 20251223105155.png",
     "attachments",
     "CODING/02_Concepts/SQL/rough/attachments/Pasted image 20251223105021.png",
-    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
     "CODING/02_Concepts/SQL/rough/attachments",
     "CODING/04_knowledge/Untitled 1.md",
     "ReadMe.md",
@@ -417,10 +419,8 @@
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/REACT/useEffect.md",
     "CODING/02_Concepts/REACT/updater function.md",
-    "CODING/02_Concepts/REACT/onChange.md",
     "CODING/02_Concepts/CSS",
     "Untitled 1",
-    "Untitled",
     "CODING/02_Concepts/General",
     "CODING/02_Concepts/JAVASCRIPT",
     "CODING/02_Concepts/HTML"
