@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "introduction"
             }
+          },
+          {
+            "id": "e9a35c516bfb7771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/04_knowledge/what is SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "what is SQL"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,26 +290,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bf3646db860f822",
+  "active": "e9a35c516bfb7771",
   "lastOpenFiles": [
+    "CODING/05_Courses/GEN AI AND LLMs/introduction.md",
+    "CODING/04_knowledge/what is SQL.md",
+    "CODING/02_Concepts/Databases",
     "CODING/05_Courses/GEN AI AND LLMs",
     "CODING/05_Courses",
     "CODING/04_knowledge/Untitled 2.md",
-    "CODING/05_Courses/GEN AI AND LLMs/introduction.md",
     "CODING/02_Concepts/GEN AI",
-    "CODING/02_Concepts/SQL/rough/23-12-2025.md",
+    "CODING/02_Concepts/Databases/SQL/rough/23-12-2025.md",
     "CODING/02_Concepts/python/dictionary.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/python",
     "attachments/Pasted image 20251223105155.png",
     "attachments",
-    "CODING/02_Concepts/SQL/rough/attachments/Pasted image 20251223105021.png",
-    "CODING/02_Concepts/SQL/rough/attachments",
+    "CODING/02_Concepts/Databases/SQL/rough/attachments/Pasted image 20251223105021.png",
+    "CODING/02_Concepts/Databases/SQL/rough/attachments",
     "CODING/04_knowledge/Untitled 1.md",
     "ReadMe.md",
-    "CODING/02_Concepts/SQL/rough",
-    "CODING/02_Concepts/SQL",
+    "CODING/02_Concepts/Databases/SQL/rough",
+    "CODING/02_Concepts/Databases/SQL",
     "CODING/04_knowledge/React backend.md",
     "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
@@ -303,8 +329,6 @@
     "CODING/04_knowledge/coding.md",
     "CODING/04_knowledge/class component.md",
     "CODING/02_Concepts/REACT/arrays in react.md",
-    "CODING/02_Concepts/CSS",
-    "Untitled 1",
-    "CODING/02_Concepts/General"
+    "CODING/02_Concepts/CSS"
   ]
 }
