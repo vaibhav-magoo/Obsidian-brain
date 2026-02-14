@@ -78,21 +78,9 @@
               "icon": "lucide-file",
               "title": "introduction"
             }
-          },
-          {
-            "id": "fcb46cc8e8ebcfbe",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcb46cc8e8ebcfbe",
+  "active": "0bf3646db860f822",
   "lastOpenFiles": [
     "CODING/05_Courses/GEN AI AND LLMs",
     "CODING/05_Courses",
