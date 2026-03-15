@@ -102,9 +102,21 @@
               "icon": "lucide-file",
               "title": "what is SQL"
             }
+          },
+          {
+            "id": "3b59cc52d6d728b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9a35c516bfb7771",
+  "active": "3b59cc52d6d728b6",
   "lastOpenFiles": [
     "CODING/05_Courses/GEN AI AND LLMs/introduction.md",
     "CODING/04_knowledge/what is SQL.md",
