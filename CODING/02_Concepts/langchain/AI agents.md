@@ -38,3 +38,10 @@
 
 # Tool calling
 
+> [!NOTE]
+> Tool calling is a technique that enables a large language model (LLM) to be aware of and interact with real-time data sources, such as databases or APIs. In this process, a client application sends a set of messages along with a tool definition to the LLM. 
+
+#### embedded tool calling
+ - Instead of sending messages directly to the LLM, you use a library or framework that acts as a middleman.
+ - This library not only defines the tools you want to use but also executes the tool calls for you
+ - helps ensure that the responses are accurate and relevant.
