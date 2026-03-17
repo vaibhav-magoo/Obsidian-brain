@@ -27,4 +27,14 @@
  - if task is ambiguous use AI agents
  - AI agents will consume 10-100 times more tokens than workflows
  - before launching test if the agents can meet 5 key skills of the required task
- - 
+ - have room for mistakes and correction of the mistakes
+### Key elements of agent architecture:
+ - Environment(the digital space of operation)
+ - Tools (the interfaces the agents use)
+ - System Prompts
+ 
+> Start simple with your agent's actions. Add task complexity only after confirming the agent's reliable performance.
+
+
+# Tool calling
+
