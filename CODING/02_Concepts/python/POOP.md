@@ -32,3 +32,14 @@ class Employee:
 #### instantiating :
  if there is a `Dog` class , it can be instantiated by using
  `Dog()`
+
+
+## [[Inheritance]] :
+- To create a class that inherits the functionality from another class, send the parent class as a parameter when creating the child class:
+
+```python
+class Student(Person):  
+  def __init__(self, fname, lname):  
+    super().__init__(fname, lname)`
+```
+
