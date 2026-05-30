@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "857a61c0ab3e812d",
+            "id": "56bb952579051173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/langchain/AI agents.md",
+                "file": "CODING/02_Concepts/python/POOP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,47 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI agents"
-            }
-          },
-          {
-            "id": "660feb317e900964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CODING/02_Concepts/python/dictionary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dictionary"
-            }
-          },
-          {
-            "id": "55e2369a72550f68",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "title": "POOP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39dc1acd60c2aca2",
@@ -253,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55e2369a72550f68",
+  "active": "56bb952579051173",
   "lastOpenFiles": [
+    "CODING/02_Concepts/python/dictionary.md",
+    "CODING/02_Concepts/python/POOP.md",
     "attachments/Pasted image 20260317105203.png",
     "attachments/Pasted image 20260317105139.png",
     "attachments/Pasted image 20260317105116.png",
@@ -272,7 +238,6 @@
     "CODING/04_knowledge/Untitled 2.md",
     "CODING/02_Concepts/GEN AI",
     "CODING/02_Concepts/Databases/SQL/rough/23-12-2025.md",
-    "CODING/02_Concepts/python/dictionary.md",
     "CODING/02_Concepts/REACT/updating arrays in state.md",
     "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/python",
