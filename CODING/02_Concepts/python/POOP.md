@@ -25,5 +25,8 @@ class Employee:
  - class names are written as "ClassName".
  - `.__init__()` initializes each new instance of the class.
 
+#### Instance attributes vs class attributes:
+An instance attribute’s value is specific to a particular instance of the class.
+class attributes are attributes that have the same value for all class    instances. You can define a class attribute by assigning a value to a   variable name outside of .__init__().
 ##### `self` 
  - 
