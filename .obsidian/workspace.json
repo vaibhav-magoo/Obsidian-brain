@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "39dc1acd60c2aca2",
@@ -219,9 +218,9 @@
   },
   "active": "56bb952579051173",
   "lastOpenFiles": [
-    "CODING/04_knowledge/Inheritance.md",
-    "CODING/02_Concepts/python/POOP.md",
     "CODING/02_Concepts/python/dictionary.md",
+    "CODING/02_Concepts/python/POOP.md",
+    "CODING/04_knowledge/Inheritance.md",
     "attachments/Pasted image 20260317105203.png",
     "attachments/Pasted image 20260317105139.png",
     "attachments/Pasted image 20260317105116.png",
