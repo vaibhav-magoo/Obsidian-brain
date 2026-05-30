@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "dictionary"
             }
+          },
+          {
+            "id": "55e2369a72550f68",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "660feb317e900964",
+  "active": "55e2369a72550f68",
   "lastOpenFiles": [
     "attachments/Pasted image 20260317105203.png",
     "attachments/Pasted image 20260317105139.png",
