@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "POOP"
             }
+          },
+          {
+            "id": "972a95e3a393975c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/04_knowledge/iterators.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "iterators"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56bb952579051173",
+  "active": "972a95e3a393975c",
   "lastOpenFiles": [
-    "CODING/02_Concepts/python/dictionary.md",
     "CODING/02_Concepts/python/POOP.md",
+    "CODING/04_knowledge/iterators.md",
+    "CODING/02_Concepts/python/dictionary.md",
     "CODING/04_knowledge/Inheritance.md",
     "attachments/Pasted image 20260317105203.png",
     "attachments/Pasted image 20260317105139.png",
@@ -257,7 +283,6 @@
     "CODING/04_knowledge/form elements.md",
     "CODING/04_knowledge/JavaScript.md",
     "CODING/02_Concepts/REACT/routing.md",
-    "CODING/04_knowledge/JavaScript spread operator.md",
-    "CODING/04_knowledge/tracker project.md"
+    "CODING/04_knowledge/JavaScript spread operator.md"
   ]
 }
