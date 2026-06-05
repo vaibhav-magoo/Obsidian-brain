@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Type Hints"
             }
+          },
+          {
+            "id": "c733af4dc644c847",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/python/Generators.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Generators"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "39dc1acd60c2aca2",
@@ -265,10 +290,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c81b358f8c3b66b9",
+  "active": "c733af4dc644c847",
   "lastOpenFiles": [
-    "CODING/02_Concepts/python/POOP.md",
     "CODING/02_Concepts/python/Type Hints.md",
+    "CODING/02_Concepts/python/Generators.md",
+    "CODING/02_Concepts/python/POOP.md",
     "CODING/04_knowledge/iterators.md",
     "CODING/02_Concepts/python/dictionary.md",
     "CODING/04_knowledge/Inheritance.md",
@@ -306,7 +332,6 @@
     "CODING/04_knowledge/destructure.md",
     "CODING/04_knowledge/e commerce.md",
     "CODING/04_knowledge/form elements.md",
-    "CODING/04_knowledge/JavaScript.md",
-    "CODING/02_Concepts/REACT/routing.md"
+    "CODING/04_knowledge/JavaScript.md"
   ]
 }
