@@ -6,3 +6,4 @@ generators create iterators
 
 **State Retention**: When the generator is called again, it resumes exactly where it left off, maintaining its local variables and execution path.
 
+**`StopIteration`**: When a generator finishes execution or hits a `return` statement, it automatically raises a `StopIteration` exception to signal that there are no more values. 
