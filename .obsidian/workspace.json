@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "POOP"
             }
+          },
+          {
+            "id": "c81b358f8c3b66b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/python/Type Hints.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Type Hints"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,10 +265,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "972a95e3a393975c",
+  "active": "c81b358f8c3b66b9",
   "lastOpenFiles": [
-    "CODING/04_knowledge/iterators.md",
     "CODING/02_Concepts/python/POOP.md",
+    "CODING/02_Concepts/python/Type Hints.md",
+    "CODING/04_knowledge/iterators.md",
     "CODING/02_Concepts/python/dictionary.md",
     "CODING/04_knowledge/Inheritance.md",
     "attachments/Pasted image 20260317105203.png",
@@ -282,7 +307,6 @@
     "CODING/04_knowledge/e commerce.md",
     "CODING/04_knowledge/form elements.md",
     "CODING/04_knowledge/JavaScript.md",
-    "CODING/02_Concepts/REACT/routing.md",
-    "CODING/04_knowledge/JavaScript spread operator.md"
+    "CODING/02_Concepts/REACT/routing.md"
   ]
 }
