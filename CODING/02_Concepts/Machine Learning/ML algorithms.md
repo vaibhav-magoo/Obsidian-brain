@@ -16,8 +16,9 @@ works on labelled data
 - Forecasting the `exact temperature` for tomorrow.
 - Estimating the `number of sales` a store will make next month.
 
-#### Linear regression :
-	
+regression algorithms:
+ - [[Linear Regression]]
+
 ## UNSUPERVISD LEARNING:
  trained on unlabelled data
  we feed inputs but no outputs , the model figures out relations between the input data and discover patterns , grouping and structures

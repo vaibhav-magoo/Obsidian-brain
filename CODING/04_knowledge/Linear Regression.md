@@ -1,0 +1,8 @@
+> linear regression tries to find a linear relationship between the data points
+> a line that best fits the data
+
+
+$$
+y = mx + c
+$$
+- the goal is to minimise the error , find a value for m and c that gives the best y value for given x

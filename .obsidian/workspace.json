@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/02_Concepts/Machine Learning/ML algorithms.md",
+                "file": "CODING/04_knowledge/Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ML algorithms"
+              "title": "Linear Regression"
             }
           }
         ],
@@ -340,8 +340,9 @@
   },
   "active": "943c71497f0c8882",
   "lastOpenFiles": [
-    "CODING/04_knowledge/ASYNCIO.md",
     "CODING/02_Concepts/Machine Learning/ML algorithms.md",
+    "CODING/04_knowledge/Linear Regression.md",
+    "CODING/04_knowledge/ASYNCIO.md",
     "CODING/02_Concepts/Machine Learning",
     "CODING/02_Concepts/python/Generators.md",
     "CODING/02_Concepts/python/Type Hints.md",
@@ -379,7 +380,6 @@
     "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
     "CODING/02_Concepts/REACT/react-event.md",
-    "CODING/04_knowledge/destructure.md",
-    "CODING/04_knowledge/e commerce.md"
+    "CODING/04_knowledge/destructure.md"
   ]
 }
