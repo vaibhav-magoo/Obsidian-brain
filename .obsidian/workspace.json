@@ -126,9 +126,33 @@
               "icon": "lucide-file",
               "title": "ASYNCIO"
             }
+          },
+          {
+            "id": "943c71497f0c8882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/02_Concepts/Machine Learning/ML algorithms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ML algorithms"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -314,9 +338,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e38d9010041dd8d",
+  "active": "943c71497f0c8882",
   "lastOpenFiles": [
     "CODING/04_knowledge/ASYNCIO.md",
+    "CODING/02_Concepts/Machine Learning/ML algorithms.md",
+    "CODING/02_Concepts/Machine Learning",
     "CODING/02_Concepts/python/Generators.md",
     "CODING/02_Concepts/python/Type Hints.md",
     "CODING/02_Concepts/python/POOP.md",
@@ -349,13 +375,11 @@
     "CODING/02_Concepts/Databases/SQL/rough/attachments",
     "CODING/04_knowledge/Untitled 1.md",
     "CODING/02_Concepts/Databases/SQL/rough",
-    "CODING/02_Concepts/Databases/SQL",
     "CODING/04_knowledge/React backend.md",
     "CODING/04_knowledge/fetch.md",
     "CODING/02_Concepts/REACT/useContext.md",
     "CODING/02_Concepts/REACT/react-event.md",
     "CODING/04_knowledge/destructure.md",
-    "CODING/04_knowledge/e commerce.md",
-    "CODING/04_knowledge/form elements.md"
+    "CODING/04_knowledge/e commerce.md"
   ]
 }
