@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/iterators.md",
+                "file": "CODING/02_Concepts/python/POOP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "iterators"
+              "title": "POOP"
             }
           }
         ],
@@ -243,8 +243,8 @@
   },
   "active": "972a95e3a393975c",
   "lastOpenFiles": [
-    "CODING/02_Concepts/python/POOP.md",
     "CODING/04_knowledge/iterators.md",
+    "CODING/02_Concepts/python/POOP.md",
     "CODING/02_Concepts/python/dictionary.md",
     "CODING/04_knowledge/Inheritance.md",
     "attachments/Pasted image 20260317105203.png",
