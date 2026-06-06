@@ -18,6 +18,7 @@ works on labelled data
 
 regression algorithms:
  - [[Linear Regression]]
+ - [[Logistic Regression]]
 
 ## UNSUPERVISD LEARNING:
  trained on unlabelled data

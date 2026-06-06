@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/04_knowledge/Linear Regression.md",
+                "file": "CODING/02_Concepts/Machine Learning/Linear Regression.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,9 +150,33 @@
               "icon": "lucide-file",
               "title": "Linear Regression"
             }
+          },
+          {
+            "id": "2ecfb66813fb23d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/04_knowledge/Logistic Regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Logistic Regression"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -338,11 +362,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "943c71497f0c8882",
+  "active": "2ecfb66813fb23d8",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260605220836.png",
     "CODING/02_Concepts/Machine Learning/ML algorithms.md",
-    "CODING/04_knowledge/Linear Regression.md",
+    "CODING/04_knowledge/Logistic Regression.md",
+    "CODING/02_Concepts/Machine Learning/Linear Regression.md",
+    "attachments/Pasted image 20260605220836.png",
     "CODING/04_knowledge/ASYNCIO.md",
     "CODING/02_Concepts/Machine Learning",
     "CODING/02_Concepts/python/Generators.md",
