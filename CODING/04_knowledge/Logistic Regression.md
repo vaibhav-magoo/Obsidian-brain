@@ -1,0 +1,2 @@
+- used for classification
+- it outputs probabilities of the data belonging to that class
