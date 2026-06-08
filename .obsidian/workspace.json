@@ -198,6 +198,30 @@
               "icon": "lucide-file",
               "title": "PRACT - fitness API"
             }
+          },
+          {
+            "id": "9bd247b8c00d1181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CODING/pydantic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pydantic"
+            }
           }
         ],
         "currentTab": 7
@@ -388,8 +412,9 @@
   },
   "active": "8afa986400863fd3",
   "lastOpenFiles": [
-    "CODING/04_knowledge/Logistic Regression.md",
+    "CODING/pydantic.md",
     "CODING/04_knowledge/PRACT - fitness API.md",
+    "CODING/04_knowledge/Logistic Regression.md",
     "CODING/02_Concepts/Machine Learning/ML algorithms.md",
     "CODING/02_Concepts/Machine Learning/Linear Regression.md",
     "attachments/Pasted image 20260605220836.png",
@@ -428,7 +453,6 @@
     "CODING/04_knowledge/Untitled 1.md",
     "CODING/02_Concepts/Databases/SQL/rough",
     "CODING/04_knowledge/React backend.md",
-    "CODING/04_knowledge/fetch.md",
-    "CODING/02_Concepts/REACT/useContext.md"
+    "CODING/04_knowledge/fetch.md"
   ]
 }
