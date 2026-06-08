@@ -3,5 +3,7 @@
   "newFileFolderPath": "CODING/04_knowledge",
   "attachmentFolderPath": "attachments",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": true
 }
