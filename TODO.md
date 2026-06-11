@@ -10,7 +10,7 @@ daily tracker
 | - [data dictionary](  https://dataedo.com/samples/html/AdventureWorks/doc/AdventureWorks_2/modules/Human_Resources_9/tables/HumanResources_Employee_130.html)<br> |        |
 | - Indexes<br>                                                                                                                                                     |        |
 | - Constraints<br>                                                                                                                                                 |        |
-| - Trigger<br>                                                                                                                                                     |        |
+| - Trigger<br>                                                                                                                                                     | done   |
 | - Joins                                                                                                                                                           | done   |
 
  
