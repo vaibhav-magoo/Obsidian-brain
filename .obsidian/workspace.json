@@ -227,6 +227,16 @@
             "id": "0e2f16cae9287131",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9bd247b8c00d1181",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "CODING/02_Concepts/AI/LLM.md",
@@ -248,12 +258,12 @@
             }
           },
           {
-            "id": "9bd247b8c00d1181",
+            "id": "3757224e9a1208b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CODING/pydantic.md",
+                "file": "CODING/02_Concepts/AI/PyTorch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -268,11 +278,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pydantic"
+              "title": "PyTorch"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -458,14 +468,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e2f16cae9287131",
+  "active": "3757224e9a1208b2",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260612141902.png",
-    "TODO.md",
+    "CODING/04_knowledge/AI.md",
+    "CODING/02_Concepts/AI/PyTorch.md",
+    "CODING/04_knowledge/python.md",
     "CODING/02_Concepts/AI/LLM.md",
+    "CODING/pydantic.md",
+    "TODO.md",
+    "attachments/Pasted image 20260612141902.png",
     "CODING/02_Concepts/python/Type Hints.md",
     "CODING/04_knowledge/PRACT - fitness API.md",
-    "CODING/pydantic.md",
     "CODING/04_knowledge/Logistic Regression.md",
     "CODING/02_Concepts/Machine Learning/ML algorithms.md",
     "CODING/02_Concepts/Machine Learning/Linear Regression.md",
@@ -494,8 +507,6 @@
     "CODING/04_knowledge/Untitled 2.md",
     "CODING/02_Concepts/GEN AI",
     "CODING/02_Concepts/Databases/SQL/rough/23-12-2025.md",
-    "CODING/02_Concepts/REACT/updating arrays in state.md",
-    "CODING/02_Concepts/JAVASCRIPT/Arrays.md",
     "CODING/02_Concepts/python",
     "attachments/Pasted image 20251223105155.png",
     "attachments",

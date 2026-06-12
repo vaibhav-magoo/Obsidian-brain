@@ -1,4 +1,4 @@
-tags - [[AI]] ,
+tags - [[AI]] 
 
 introduction:
 - language models try to learn the probability of words appearing in that order in a sentence.
@@ -13,5 +13,7 @@ $$P(A_1 \cap A_2 \cap \dots \cap A_n) = P(A_1) \cdot P(A_2 \mid A_1) \cdot P(A_3
 
 ![[Pasted image 20260612141902.png]]
 
-- LLMS are __autoregressive__ : t 
+- LLMS are __autoregressive__ : this means that LLMs generate the entire sentence token by token based on the entire sentence  before that word
+
+
 
